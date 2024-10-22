@@ -11,4 +11,4 @@ arithmetics and returns a new 6 byte packet. This packet has both header and foo
 Necessary modules are available. There are coded test benches for almost all submodules. Also sample packets have been generated with Matlab and recorded in a text file : "1000_data_i.txt". 
 Calculated final packets with Matlab are recorded in a different text file : "1000_data_o.txt". 
 Finally the sample packets have given to top module in a test bench and
-outputs have been taken to "1000_data_w.txt".Lastly, with the help of a Matlab script, errors have been compared and plotted.        
+outputs have been taken to "1000_data_w.txt".Lastly, with the help of a Matlab script, errors have been compared and plotted. The precision plot is visible on  linkedin.com/in/yusuf-baran-979131259/     
